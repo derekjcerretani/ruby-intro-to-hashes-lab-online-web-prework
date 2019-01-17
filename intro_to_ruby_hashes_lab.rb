@@ -77,4 +77,3 @@ end
 def monopoly
   monopoly = {:ralroads => {} }
 end
-
