@@ -1,5 +1,5 @@
 require 'pry'
-
+=begin
 def new_hash
  new_hash = {}
 end
@@ -64,3 +64,4 @@ def monopoly_with_fourth_tier
 			}
 		}
 end
+=end
